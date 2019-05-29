@@ -1,2 +1,5 @@
 # RL_note
-note for reinforcement learning
+
+For note of reinforcement learning, please visit my [blog](https://www.ryanzhao.org/Reinforcement_Learning/RL.html).
+
+You are welcome for issueing.
